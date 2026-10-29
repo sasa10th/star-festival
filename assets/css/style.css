@@ -403,7 +403,7 @@ a:hover {
 }
 
 .back-to-top:hover {
-  background: #298eff;
+  background: var(--second);
   color: #fff;
 }
 
@@ -821,7 +821,7 @@ a:hover {
 
 .hero .hero-subtitle {
   margin-top: 1em;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 600;
 }
 
@@ -1401,7 +1401,7 @@ a:hover {
 }
 
 .location-table th:first-child {
-  width: 72%;
+  width: 42%;
 }
 
 .round-table tbody td {
